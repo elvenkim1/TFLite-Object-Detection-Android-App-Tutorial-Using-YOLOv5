@@ -1,0 +1,13 @@
+train: /content/train/images
+val: /content/valid/images
+test: /content/test/images
+
+nc: 6
+names: ['blue-cube', 'blue-cyl', 'red-cube', 'red-cyl', 'yellow-cube', 'yellow-cyl']
+
+roboflow:
+  workspace: er-6vgws
+  project: combined_org_enh25train
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/er-6vgws/combined_org_enh25train/dataset/2
