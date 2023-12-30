@@ -1,6 +1,6 @@
-train: /content/train/images
-val: /content/valid/images
-test: /content/test/images
+train: /content/images/train/images
+val: /content/images/valid/images
+test: /content/images/test/images
 
 nc: 6
 names: ['blue-cube', 'blue-cyl', 'red-cube', 'red-cyl', 'yellow-cube', 'yellow-cyl']
