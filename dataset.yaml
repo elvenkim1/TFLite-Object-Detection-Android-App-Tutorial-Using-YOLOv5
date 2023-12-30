@@ -1,3 +1,4 @@
+#move to yolov5/data folder
 train: /content/images/train/images
 val: /content/images/valid/images
 test: /content/images/test/images
